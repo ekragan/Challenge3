@@ -26,3 +26,5 @@ def main():
         print("You have entered wrong choice. Reselect")
 
     print("Your value is: "+res)
+
+  if __name__ == '__main__': main()
